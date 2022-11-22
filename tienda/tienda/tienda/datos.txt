@@ -1,0 +1,145 @@
+equipo 1
+Procesador: Intel Core i3-10100 3.6 a 4.3 GHz, 4 Núcleos, 6 MB Caché
+Memoria RAM: 8 GB DDR4-3200 Mhz Ampliable
+Disco Duro: HDD 1TB 
+Tarjeta Gráfica: NVIDIA GeForce GT1030 4GTB
+Case Mid Tower + Fuente 350W 
+Monitor: LG LED 22'' FHD
+Teclado y Mouse USB 
+La vida digital al alcance de tus manos, el equipo perfecto para abordar las tareas de colegio, teletrabajo y tambien para las de tiempo libre, socaliza y juega en tu plataforma favorita.
+
+equipo 2
+Procesador: AMD Ryzen 5 5600G, 3.90 / 4.4GHz   ( 6 núcleos, Caché 16MB L3)
+Memoria RAM: 16 GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 480GB + HDD 1TB 
+Case Mid Tower + Fuente 450W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Otros: DVD RW, Teclado y Mouse USB
+
+equipo 3
+Procesador: Intel Core i5-10400F 2.9 / 4.30 GHz 6 Núcleos, 12 MB Caché
+Memoria RAM: 16GB DDR4 2666Mhz Ampliable
+Disco Solido: SSD 240GB 
+Disco Duro: HDD 1TB 7200 RPM
+T. Video: AMD Radeon RX 560 4GB GDDR5
+Case Mid Tower + Fuente 450W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Otros: DVD RW, Teclado y Mouse USB
+
+laptop 1
+Intel® Core™ i5-11300H 2.6/4.4GHz, 4 núcleos (Onceava generación) 
+RAM 8GB ampliable / Sólido SSD 256GB 
+Pantalla 14" WQXGA+ (2880 x 1800) OLED, 400 nits con biseles ultradelgados NanoEdge de 4 lados, Validado por Pantone, 100% DCI-P3
+Teclado iluminado Wi-FI, Bluetooth, Thunderbolt 4
+Audio impresionante certificado por Harman Kardon.
+Windows 11 Home
+
+laptop 2
+AMD Ryzen™ 5 5600H  3.3 / 4.2 GHz, 6 núcleos - Serie H
+Memoria RAM: 8GB DDR4 / Sólido SSD 512GB PCIe 
+Pantalla micro borde de 16.1'' IPS Full HD (1920 x 1080) con microbordes, antirreflejante, 250 nits y 45 % de NTSC
+Video Nvidia GeForce GTX 1650 con 4 GB GDRR6 
+Teclado retroiluminado RGB Gaming, Wi-Fi 6, Bluetooth, USB4™ Type-C®
+Windows 10 Home 
+*Incluye Mouse Gamer HP Vector 100 a 16000 DPI valorizado en S/. 159.00*
+
+laptop 3
+AMD Ryzen™ 7 5800HS 2.8GHz hasta 4.4GHz, 8 núcleos
+RAM 16 GB DDR4-3200 MHz ampliable
+Disco SSD 512GB NVMe PCIe Gen 3.0  
+Pantalla IPS de 14 pulgadas  Full HD (1920x1080) a 144Hz Adobe sRGB 100%
+Video NVIDIA ® GeForce ® GTX 1650 4GB GDDR6 VRAM 
+Teclado chiclet retroiluminado, ROG Armory Crate, Wi-FI, Bt, USB Type-C. Peso 1.6 Kg.
+Windows 11 Home 
+
+JUEGO 1
+S/. 74.00
+RESIDENT EVIL 3 PC
+Voces: Español
+Textos: Español
+Código Original 100% Personal
+Se canjea en la web: https://store.steampowered.com/about/
+1 Usted deberá tener la aplicación de Steam descargada e instalada en su equipo: store.steampowered.com/about/
+2 Ejecute Steam e inicie sesión en su cuenta.
+3 Haga clic en el menú 'Juegos'. Elija 'Activar un producto en Steam'.
+4 Siga las instrucciones que aparecerán en pantalla para completar el proceso.
+Requisitos mínimos del sistema:
+Requisitos del sistema: WINDOWS® 7, 8, 8.1, 10 (64-BIT)
+Procesador: Intel® Core™ i5-4460 or AMD FX™-6300
+Memoria: 8 GB RAM
+Gráfico: Nvidia® GeForce™ GTX 1650 (4 GB)
+Almacenamiento: 45 GB
+
+JUEGO 2
+S/. 35.00
+Requisitos mínimos del sistema
+Requisitos del sistema
+Windows 7 de 64 bits / Windows 10
+Procesador
+Intel Core i5-750, 2,66 GHz / AMD Phenom II X4 965, 3,4 GHz o AMD Ryzen™ 3 1200, 3,1 GHz
+Memoria
+4 GB de RAM
+Gráfico
+NVIDIA® GeForce™ GTX 670 o NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 o AMD® Radeon™ R9 270
+Almacenamiento
+52 GB
+Idiomas: Inglés
+
+JUEGO 3
+S/. 57.00
+Voces: Español
+Textos: Español
+
+Requisitos mínimos del sistema:
+
+Sistema: Windows 7 / Windows 8 (8.1)
+Procesador: Intel Core i7 3770 3,4 GHz / AMD FX-8350 4 GHz
+Memoria: 8 GB de RAM
+Gráficos: Nvidia GeForce GTX 770 / AMD Radeon R9 290
+Almacenamiento: 40 GB
+
+Te brindaremos una cuenta con el cual podrás acceder al juego y esta solo para usted.
+
+JUEGO 4
+S/. 71.00
+Voces: Español
+Textos: Español
+
+Requisitos mínimos del sistema:
+
+Sistema: Windows 7
+Procesador: IIntel Core i5-750 or AMD Phenom II X4 965
+Memoria: 8 GB de RAM
+Gráficos: NVIDIA GeForce GTX 660 or AMD Radeon HD 7850
+Almacenamiento: 30 GB
+
+Te brindaremos una cuenta con el cual podras acceder al juego y esta solo para usted.
+
+JUEGO 5
+S/. 114.00
+Voces: Español
+Textos: Español
+Requisitos mínimos del sistema:
+Sistema: Windows 10
+Procesador: AMD Ryzen 5 1600 or Intel i5-4440
+Memoria: 8 GB de RAM
+Gráficos: AMD RX 570 or Nvidia GTX 1050 Ti
+Almacenamiento: 50 GB
+Te brindaremos una cuenta con el cual podras acceder al juego y esta solo para usted
+
+JUEGO 6
+S/. 189.00
+Fecha de Entrega: 19/11/2022
+
+Voces: Español Latino
+Textos: Español Latino
+
+Requisitos mínimos del sistema:
+
+Sistema: Windows 10
+Procesador: Intel Core i3-4160 o AMD equivalente
+Memoria: 8 GB de RAM
+Gráficos: NVIDIA GTX 950 o AMD Radeon RX 470
+Almacenamiento: 75 GB de espacio disponible
+
+Te brindaremos una cuenta con el cual podras acceder al juego y esta solo para usted.
