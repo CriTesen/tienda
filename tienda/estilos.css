@@ -1,5 +1,8 @@
 body{
-
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-image:background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+;
 }
 
 /*Menu*/
@@ -53,8 +56,10 @@ body{
 
   .card {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
+    box-shadow: 15px 15px 30px #191919,
+    -15px -15px 30px #292929;
+transition: border-radius cubic-bezier(0.075, 0.82, 0.165, 1) 1s,
+    transform cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
   }
   
   /* On mouse-over, add a deeper shadow */
@@ -65,7 +70,7 @@ body{
   /* Add some padding inside the card container */
   .container {
     padding: 2px 16px;
-  }
+  }   
 
   .wrapper{
     display: grid;
